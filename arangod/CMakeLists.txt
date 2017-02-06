@@ -169,6 +169,7 @@ SET(ARANGOD_SOURCES
   Aql/grammar.cpp
   Aql/tokens.cpp
   Cache/CachedValue.cpp
+  Cache/Manager.cpp
   Cache/Metadata.cpp
   Cache/PlainBucket.cpp
   Cache/PlainCache.cpp
